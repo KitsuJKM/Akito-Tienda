@@ -1,0 +1,14 @@
+/* Tokens de diseño — Akito (ver SPEC.md §2) */
+:root {
+  --color-marfil: #faf7f2;
+  --color-azul: #1a2238;
+  --color-carmesi: #c81e2b;
+  --color-carmesi-oscuro: #b81d24;
+  --color-coral: #e88d67;
+
+  --font-titulos: 'Fraunces', Georgia, serif;
+  --font-cuerpo: 'DM Sans', Arial, sans-serif;
+
+  --ancho-max: 1200px;
+  --espacio: 8px;
+}
